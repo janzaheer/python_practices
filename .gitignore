@@ -1,0 +1,15 @@
+*.pyc
+*~
+
+# IDE Projects
+/.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+
+# Installation-specific
+.env
+
+# testing related files
+.coverage
